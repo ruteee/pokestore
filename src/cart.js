@@ -29,7 +29,7 @@ function Cart(props){
             <Card>
                 <CardHeader
                     className={classes.cardHeader}
-                    title="Cart (3)"
+                    title="Cart"
                     avatar={
                         <Avatar>
                             <ShoppingCartIcon/>
