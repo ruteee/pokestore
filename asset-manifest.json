@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pokestore-gh-pages/static/css/main.bed2239e.chunk.css",
+    "main.js": "/pokestore-gh-pages/static/js/main.15101b4b.chunk.js",
+    "main.js.map": "/pokestore-gh-pages/static/js/main.15101b4b.chunk.js.map",
+    "runtime-main.js": "/pokestore-gh-pages/static/js/runtime-main.b0d7b2f1.js",
+    "runtime-main.js.map": "/pokestore-gh-pages/static/js/runtime-main.b0d7b2f1.js.map",
+    "static/css/2.35f07bbe.chunk.css": "/pokestore-gh-pages/static/css/2.35f07bbe.chunk.css",
+    "static/js/2.b5f46e6c.chunk.js": "/pokestore-gh-pages/static/js/2.b5f46e6c.chunk.js",
+    "static/js/2.b5f46e6c.chunk.js.map": "/pokestore-gh-pages/static/js/2.b5f46e6c.chunk.js.map",
+    "index.html": "/pokestore-gh-pages/index.html",
+    "precache-manifest.8d4d3a3fc385eb6f888d349f06145d08.js": "/pokestore-gh-pages/precache-manifest.8d4d3a3fc385eb6f888d349f06145d08.js",
+    "service-worker.js": "/pokestore-gh-pages/service-worker.js",
+    "static/css/2.35f07bbe.chunk.css.map": "/pokestore-gh-pages/static/css/2.35f07bbe.chunk.css.map",
+    "static/css/main.bed2239e.chunk.css.map": "/pokestore-gh-pages/static/css/main.bed2239e.chunk.css.map",
+    "static/js/2.b5f46e6c.chunk.js.LICENSE.txt": "/pokestore-gh-pages/static/js/2.b5f46e6c.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/pokestore-gh-pages/static/media/logo.abe1febe.png",
+    "static/media/index.css": "/pokestore-gh-pages/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0d7b2f1.js",
+    "static/css/2.35f07bbe.chunk.css",
+    "static/js/2.b5f46e6c.chunk.js",
+    "static/css/main.bed2239e.chunk.css",
+    "static/js/main.15101b4b.chunk.js"
+  ]
+}
