@@ -12,7 +12,7 @@ for (let i=1; i <= 808; i++){
 function NestedGrid(props){
 
     const [pokemonData, setPokemonData] = useState([]) 
-    const url = 'pokemon?limit=1&offset=807'
+    const url = 'https://pokeapi.co/api/v2/pokemon?limit=1&offset=807'
     const url_pattern1 = 'https://pokeapi.co/api/v2/pokemon/'
 
     useEffect(() =>{
