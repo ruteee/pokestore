@@ -22,7 +22,7 @@ const useStyles = makeStyles({
 
 let price = 0
 function Cart(props){
-    price  += Number(props.price/2)
+    price  += Number(props.price)
     const classes = useStyles()
     return(
         <>

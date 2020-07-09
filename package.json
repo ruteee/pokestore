@@ -1,7 +1,7 @@
 {
   "name": "pokestore",
   "version": "0.1.0",
-  "homepage": "https://ruteee.github.io/pokestore-gh-pages",
+  "homepage": "https://ruteee.github.io/pokestore",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",

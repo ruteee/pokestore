@@ -17,9 +17,7 @@ function NestedGrid(props){
 
     useEffect(() =>{
         async function getData(){
-            const response = await axios.get(url_pattern1
-                
-            );
+            const response = await axios.get(url);          
             setPokemonData(response.data.results)
         }
         getData()
